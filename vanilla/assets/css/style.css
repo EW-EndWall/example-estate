@@ -1,0 +1,55 @@
+body {
+  background-color: beige;
+}
+.bg-box {
+  background-color: rgb(179, 180, 180);
+}
+.bg-title,
+header,
+footer {
+  background-color: rgb(208, 212, 212);
+}
+a.active {
+  color: #212529 !important;
+}
+a {
+  color: #6c757d !important;
+}
+a:hover {
+  color: #2e2f30 !important;
+}
+* {
+  transition: 0.5s;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+}
+.ping-container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.ping {
+  background: #fff;
+  border-radius: 50%;
+  border: 50px solid #222;
+  width: 20px;
+  height: 20px;
+  animation: load 1.5s ease-out infinite;
+}
+@keyframes load {
+  0% {
+    background: #3cc4ee;
+    border: 0px solid #3cc4ee;
+  }
+  50% {
+    background: #3cc4ee;
+    border: 100px solid #fff;
+  }
+  100% {
+    background: #3cc4ee;
+    border: 0px solid #fff;
+  }
+}
