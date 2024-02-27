@@ -27,7 +27,14 @@
 
 # About
 
-Are you currently on the quest to find your ideal home sweet home, that perfect sanctuary where cherished memories are made? Your search concludes here!
+This warehouse includes codes for a real estate company website. The website is an example of a site where users can see real estate ads and find contact information.
+
+- Home
+- About Us
+- Contact
+- Product
+- Products
+- Login
 
 # Screenshot
 
