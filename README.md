@@ -10,6 +10,8 @@
 
   <p align="center">
     vite | vue | bootstrap | vanilla
+    <br />
+    (responsive)
     <br /><br /><br />
   </p>
 </p>
