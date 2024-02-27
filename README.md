@@ -1,11 +1,95 @@
-![Example Estate - Home_202412817301](https://github.com/EW-EndWall/code-examples/assets/43109779/0ee18a1c-c1d5-4fe1-8c42-e71e2c14fa77)
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/vue/public/assets/img/favicon2.png" alt="Logo" width="220" height="auto">
+  </a>
 
-![Example Estate - Products_202412817315](https://github.com/EW-EndWall/code-examples/assets/43109779/9d5238ed-a7ef-44dd-83ce-e6b18009c17c)
 
-![Example Estate - Product details_2024128174437](https://github.com/EW-EndWall/code-examples/assets/43109779/bb9a3a9d-0b86-493d-b947-759f6c91933b)
+  <h3 align="center">
+    Example Estate
+  </h3>
 
-![Example Estate - About Us_2024128173126](https://github.com/EW-EndWall/code-examples/assets/43109779/61be4d8d-98fd-42e5-9b88-5c6e8f9e1ed9)
+  <p align="center">
+    vite | vue | bootstrap | vanilla
+    <br /><br /><br />
+  </p>
+</p>
 
-![Example Estate - Contact_2024128173118](https://github.com/EW-EndWall/code-examples/assets/43109779/c3fa958e-2ba9-4f74-9c79-74ced53445df)
+# Table Of Contents
 
-![Example Estate - Login_2024128173132](https://github.com/EW-EndWall/code-examples/assets/43109779/64e26733-8e8f-47b9-8268-76927a2f2d4c)
+* [About](#about)
+* [Screenshot](#screenshot)
+* [Quick Installation](#quick-installation)
+  * [Vue](#vue)
+    * [Vue Install](#vue-install)
+    * [Vue Development](#vue-development)
+    * [Vue Build](#vue-build)
+* [License](#license)
+
+# About
+
+Are you currently on the quest to find your ideal home sweet home, that perfect sanctuary where cherished memories are made? Your search concludes here!
+
+# Screenshot
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/screenshot/1.png" width="" />
+  <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/screenshot/2.png" width="" />
+  <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/screenshot/3.png" width="" />
+  <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/screenshot/4.png" width="" />
+  <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/screenshot/5.png" width="" />
+  <img src="https://raw.githubusercontent.com/EW-EndWall/example-estate/main/screenshot/6.png" width="" />
+</div>
+
+# Quick Installation
+
+## Vue
+
+```bash
+$ cd ./vue/
+```
+
+### Vue Install
+
+```bash
+$ npm install
+```
+or
+```bash
+$ yarn install
+```
+or
+```bash
+$ pnpm install
+```
+
+### Vue Development
+
+```bash
+$ npm dev
+```
+or
+```bash
+$ yarn dev
+```
+or
+```bash
+$ pnpm dev
+```
+
+### Vue Build
+
+```bash
+$ npm build
+```
+or
+```bash
+$ yarn build
+```
+or
+```bash
+$ pnpm build
+```
+
+# License
+
+Distributed under the Apache-2.0 License. See [LICENSE](https://github.com/EW-EndWall/example-estate/blob/main/LICENSE) for more information.
