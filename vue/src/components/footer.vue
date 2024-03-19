@@ -86,7 +86,7 @@ export default {
             href="https://endwall.pw"
             rel="nofollow"
             target="_blank"
-            title="Designed by EWT"
+            title="developed by EWT"
           >
             EWT
           </a>
